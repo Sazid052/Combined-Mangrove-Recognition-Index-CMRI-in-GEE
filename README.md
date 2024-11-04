@@ -42,4 +42,4 @@ This project calculates the Climate Moisture Regime Index (CMRI) using MODIS NDV
 
 ## Resources
 - [MODIS NDVI Data](https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_NDVI)
-- [MODIS NDWI Data]([https://modis.gsfc.nasa.gov/data/dataprod/](https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_NDWI))
+- [MODIS NDWI Data](https://developers.google.com/earth-engine/datasets/catalog/MODIS_MOD09GA_006_NDWI)
