@@ -1,7 +1,8 @@
 # Combined-Mangrove-Recognition-Index-CMRI-in-GEE
 
 ## Overview
-This project calculates the Climate Moisture Regime Index (CMRI) using MODIS NDVI and NDWI datasets in Google Earth Engine (GEE). The script computes CMRI values over specified regions from 2001 to 2023, estimates the area where CMRI exceeds a given threshold, and offers options for data export and visualization.
+The Combined Mangrove Recognition Index (CMRI) integrates NDVI and NDWI to identify mangrove forests more accurately. NDVI highlights dense vegetation, crucial for detecting healthy mangroves, with values close to 1. NDWI emphasizes water features, with mangroves typically showing moderate values due to their intertidal location. By combining high NDVI and NDWI, CMRI effectively differentiates mangroves from both open water and vegetation, making it useful for mapping mangroves in complex coastal environments.
+This project calculates the  Combined Mangrove Recognition Index (CMRI) using MODIS NDVI and NDWI datasets in Google Earth Engine (GEE). The script computes CMRI values over specified regions from 2001 to 2023, estimates the area where CMRI exceeds a given threshold, and offers options for data export and visualization.
 
 ## Key Features
 - Calculation of CMRI using MODIS datasets over a specified time range.
